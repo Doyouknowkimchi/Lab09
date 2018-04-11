@@ -7,7 +7,7 @@ import java.util.Scanner; //import class
  * getData method set name and record, computeAverage method calculate average of records, 
  * team method set sail's mans name, printResult bring output to screen
  *  
- * please update...
+ * please update... umm
  */
 public class SalesReporter { //name of class
 
